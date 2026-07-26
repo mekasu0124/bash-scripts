@@ -1,4 +1,3 @@
-```markdown
 <label id="top"></label>
 
 <div align="center">
@@ -351,4 +350,3 @@ This project is licensed under the All Rights Reserved License - see the [LICENS
 [Back to Top](#top)
 
 </div>
-```
